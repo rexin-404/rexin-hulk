@@ -10,7 +10,7 @@ $ pkg install python2
 
 $ pkg install git
 
-$ https://github.com/PSYCHO-REXIN/rexin-hulk
+$ git clone https://github.com/PSYCHO-REXIN/rexin-hulk
 
 $ cd rexin-hulk
 
